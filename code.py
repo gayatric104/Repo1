@@ -1,6 +1,6 @@
 # import random
 import random as r
-
+import os
 # prints a random value from the list
 list1 = [1, 2, 3, 4, 5, 6]
 
